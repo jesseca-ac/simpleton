@@ -1,3 +1,2 @@
-
 [Home](/index.html)
-[Page 2]()
+[Page 2](/page-two.html)
