@@ -1,0 +1,25 @@
+body {
+    background-color:black;
+    color:black;
+    font-family: arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    width: 90%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:white;
+    color: black;
+}
+
+.container-colored {
+    width: 90%;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:black;
+    color: white;
+}
